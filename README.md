@@ -136,7 +136,7 @@ The evaluation script measures perplexity and memory consumption at context leng
 
 The governance assessment of these results, applying NIST AI RMF 1.0 and ISO/IEC 42001:2023 to evaluate production deployment readiness, is available here:
 
-📋 [model-risk-assessment-kubo](https://github.com/YOUR-USERNAME/model-risk-assessment-kubo)
+📋 [model-risk-assessment-kubo](https://github.com/shankar-bettadapura/model-risk-assessment-kubo)
 
 ---
 
